@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NTEyOTQyNjY2NDg1NDY1MTA4.DtAyqQ.WsMProeHO9tmpWvSIqkQtQDal_s
+owner=218206128490807297 
+prefix=T
+game=Type Thelp
 stayinchannel=true
 songinstatus=true
